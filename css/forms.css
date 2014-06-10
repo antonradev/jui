@@ -1,0 +1,27 @@
+.jui-text-field-error {
+    border: 1px #cc0000 solid;
+}
+.jui-form-controll {
+    
+}
+.jui-controll-error {
+    background-color: #ffcccc;
+}
+.jui-error-message {
+    margin: 0 0 10px 0;
+    display: block;
+}
+.jui-email-error-message {
+    margin: 0 0 10px 0;
+    display: block;
+}
+.jui-error-message, .jui-email-error-message {
+    padding: 6px 9px;
+    background-color: #cc0000;
+    color: #fff;
+    font-size: .8em;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
